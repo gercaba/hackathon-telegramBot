@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 60vw;
+    padding: 25px;
+}
+
+.title{
+    display: flex;
+    color: rgb(91, 8, 30);
+}
